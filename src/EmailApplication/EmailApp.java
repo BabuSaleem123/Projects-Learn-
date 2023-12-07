@@ -42,7 +42,6 @@ public class EmailApp {
                     break;
                 default:
                     System.out.println("Invalid chocw! \nEnter the choice again");
-
             }
         }
         while (choice!=7);
